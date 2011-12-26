@@ -1,0 +1,35 @@
+-::PGex Design doc::-
+
+------------------------------
+PGex
+
+Scripting
+	Audio
+	Events
+	Dialog
+	Effects
+	Transitions
+	Switch scenes/maps
+
+
+------------------------------
+MapEditor
+
+Modes
+	EditMode
+	TestMode <--- should represent actual gameplay... except no gameplay, but kind of?
+	
+	
+------------------------------
+TODO:
+
+------------------------------
+In progress:
+
+------------------------------
+Known bugs:
+
+------------------------------
+Fixed bugs:
+	
+	
