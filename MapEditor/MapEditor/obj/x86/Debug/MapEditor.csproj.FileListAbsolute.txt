@@ -1,0 +1,11 @@
+C:\Users\Erik\documents\visual studio 2010\Projects\PGex\MapEditor\MapEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Erik\documents\visual studio 2010\Projects\PGex\MapEditor\MapEditor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Erik\documents\visual studio 2010\Projects\PGex\MapEditor\MapEditor\bin\x86\Debug\Content\gfx\pixel.xnb
+C:\Users\Erik\documents\visual studio 2010\Projects\PGex\MapEditor\MapEditor\bin\x86\Debug\Content\fonts\basic.xnb
+C:\Users\Erik\documents\visual studio 2010\Projects\PGex\MapEditor\MapEditor\bin\x86\Debug\MapEditor.exe
+C:\Users\Erik\documents\visual studio 2010\Projects\PGex\MapEditor\MapEditor\bin\x86\Debug\MapEditor.pdb
+C:\Users\Erik\documents\visual studio 2010\Projects\PGex\MapEditor\MapEditor\bin\x86\Debug\PGex.dll
+C:\Users\Erik\documents\visual studio 2010\Projects\PGex\MapEditor\MapEditor\bin\x86\Debug\PGex.pdb
+C:\Users\Erik\documents\visual studio 2010\Projects\PGex\MapEditor\MapEditor\obj\x86\Debug\MapEditor.exe
+C:\Users\Erik\documents\visual studio 2010\Projects\PGex\MapEditor\MapEditor\obj\x86\Debug\MapEditor.pdb
+C:\Users\Erik\documents\visual studio 2010\Projects\PGex\MapEditor\MapEditor\bin\x86\Debug\Content\gfx\cursor.xnb

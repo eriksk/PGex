@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using Microsoft.Xna.Framework;
 
-namespace PGex.Entities
+namespace Gex.Entities
 {
     public class Entity
     {
@@ -12,5 +12,11 @@ namespace PGex.Entities
         public Color color;
         public float rotation, scale;
         public int source;
+
+        public Entity()
+        {
+            color = Color.White;
+            scale = 1f;
+        }
     }
 }

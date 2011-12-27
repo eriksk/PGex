@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace PGex.Maps
+namespace MapEditor.Tools
 {
-    public class Map
+    class DrawGridTool : Tool
     {
     }
 }

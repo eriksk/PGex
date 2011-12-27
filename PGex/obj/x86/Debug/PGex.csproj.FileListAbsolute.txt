@@ -1,0 +1,6 @@
+C:\Users\Erik\documents\visual studio 2010\Projects\PGex\PGex\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Erik\documents\visual studio 2010\Projects\PGex\PGex\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Erik\documents\visual studio 2010\Projects\PGex\PGex\bin\x86\Debug\PGex.dll
+C:\Users\Erik\documents\visual studio 2010\Projects\PGex\PGex\bin\x86\Debug\PGex.pdb
+C:\Users\Erik\documents\visual studio 2010\Projects\PGex\PGex\obj\x86\Debug\PGex.dll
+C:\Users\Erik\documents\visual studio 2010\Projects\PGex\PGex\obj\x86\Debug\PGex.pdb
