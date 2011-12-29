@@ -5,7 +5,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PGex", "PGex\PGex.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapEditor", "MapEditor\MapEditor\MapEditor.csproj", "{675A55EF-7D75-404A-B887-0C19E14AC37F}"
 EndProject
-Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "MapEditorContent", "MapEditor\MapEditorContent\MapEditorContent.contentproj", "{A59A98D8-59B3-4EA0-8558-7F5F02967539}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapEditorContent", "MapEditor\MapEditorContent\MapEditorContent.contentproj", "{A59A98D8-59B3-4EA0-8558-7F5F02967539}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGame", "TestGame\TestGame\TestGame.csproj", "{BA081CDA-FF41-43E2-BB1F-58AD279F461C}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TestGameContent", "TestGame\TestGameContent\TestGameContent.contentproj", "{FD348CD6-1B63-40F6-B336-14638E51A522}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +27,12 @@ Global
 		{675A55EF-7D75-404A-B887-0C19E14AC37F}.Release|x86.Build.0 = Release|x86
 		{A59A98D8-59B3-4EA0-8558-7F5F02967539}.Debug|x86.ActiveCfg = Debug|x86
 		{A59A98D8-59B3-4EA0-8558-7F5F02967539}.Release|x86.ActiveCfg = Release|x86
+		{BA081CDA-FF41-43E2-BB1F-58AD279F461C}.Debug|x86.ActiveCfg = Debug|x86
+		{BA081CDA-FF41-43E2-BB1F-58AD279F461C}.Debug|x86.Build.0 = Debug|x86
+		{BA081CDA-FF41-43E2-BB1F-58AD279F461C}.Release|x86.ActiveCfg = Release|x86
+		{BA081CDA-FF41-43E2-BB1F-58AD279F461C}.Release|x86.Build.0 = Release|x86
+		{FD348CD6-1B63-40F6-B336-14638E51A522}.Debug|x86.ActiveCfg = Debug|x86
+		{FD348CD6-1B63-40F6-B336-14638E51A522}.Release|x86.ActiveCfg = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,9 @@
+C:\Users\Erik\documents\visual studio 2010\Projects\PGex\TestGame\TestGame\bin\x86\Debug\Content\test.xnb
+C:\Users\Erik\documents\visual studio 2010\Projects\PGex\TestGame\TestGame\bin\x86\Debug\TestGame.exe
+C:\Users\Erik\documents\visual studio 2010\Projects\PGex\TestGame\TestGame\bin\x86\Debug\TestGame.pdb
+C:\Users\Erik\documents\visual studio 2010\Projects\PGex\TestGame\TestGame\bin\x86\Debug\PGex.dll
+C:\Users\Erik\documents\visual studio 2010\Projects\PGex\TestGame\TestGame\bin\x86\Debug\PGex.pdb
+C:\Users\Erik\documents\visual studio 2010\Projects\PGex\TestGame\TestGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Erik\documents\visual studio 2010\Projects\PGex\TestGame\TestGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Erik\documents\visual studio 2010\Projects\PGex\TestGame\TestGame\obj\x86\Debug\TestGame.exe
+C:\Users\Erik\documents\visual studio 2010\Projects\PGex\TestGame\TestGame\obj\x86\Debug\TestGame.pdb
